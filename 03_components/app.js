@@ -30,7 +30,7 @@ function Box(){
         </div>
     )
 }
-// Using react component
+// --------------Using react component----------------
 // Heading()   X
 // <Heading /> ✔
 //or React.createElement(Box, null) ✔
