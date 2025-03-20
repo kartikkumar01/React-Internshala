@@ -4,7 +4,7 @@
 
 //lets create a component
 function Box(props){
-    props.language = "python"   //X properties are Read only, not editable
+    //props.language = "python"   //X properties are Read only, not editable
     return (
         <div className="box">
             <h1>{props.language}...</h1>
